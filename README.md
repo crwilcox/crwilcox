@@ -7,7 +7,7 @@ est. Wisconsin 🧀🐄🍺 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Seattle, WA 
 
 👋 I'm Chris. 
 
-I work at Google as a Staff Engineer. I focus on Hybrid Connectivity between our propietary tech stack and public cloud.
+I work at Google as a Staff Engineer. I focus on Hybrid Connectivity between our propietary tech stack and public cloud. You may have noticed my GitHub stats decreased about the same time, almost as if most of my code stopped being here 😉.
 
 I previously focused on Google Cloud ☁️ building Client Libraries for products like [Firestore](https://cloud.google.com/firestore/docs/quickstart-servers#add_data) 🔥, [Bigtable](https://cloud.google.com/bigtable/docs/writing-data#simple) 🏓, and [Google Cloud Storage](https://cloud.google.com/storage/docs/uploading-objects#storage-upload-object-code-sample) 💽.
 
