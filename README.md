@@ -7,7 +7,7 @@ est. Wisconsin 🧀🐄🍺 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Seattle, WA 
 
 👋 I'm Chris. 
 
-I work at Google as a Staff Engineer. I focus on Hybrid Connectivity between our propietary tech stack and public cloud. You may have noticed my GitHub stats decreased about the same time, almost as if most of my code stopped being here 😉.
+I work at Google as a Staff Engineer. I am currently focused on making it possible for Googlers to use GitHub, internally, and here on GitHub.com. I've spent the most recent years at Google trying to enable Googlers to leave the tech island. Since that started we've made it possible for folks to use Git, GCP, Terraform, and a number of technologies y'all outside of Google are already familiar with. Before that I spent time sorting out how to connect our public cloud (GCP) to our internal infrastructure, enabling teams to take a hybrid approach to infrastructure. For a bit my code metrics went down on GitHub as most of that work was inside our internal sourcebase, google3.
 
 I previously focused on Google Cloud ☁️ building Client Libraries for products like [Firestore](https://cloud.google.com/firestore/docs/quickstart-servers#add_data) 🔥, [Bigtable](https://cloud.google.com/bigtable/docs/writing-data#simple) 🏓, and [Google Cloud Storage](https://cloud.google.com/storage/docs/uploading-objects#storage-upload-object-code-sample) 💽.
 
