@@ -2,16 +2,23 @@
 
 est. Wisconsin 🧀🐄🍺 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. Seattle, WA ⛰️🌲🚢
 
+For more about me check out [chriswilcox.dev](https://chriswilcox.dev) for tech related content. 
 
 ## `who`
 
-👋 I'm Chris. 
+👋 I'm Chris.
 
 I work at Google as a Staff Engineer. I am currently focused on making it possible for Googlers to use GitHub, internally, and here on GitHub.com. I've spent the most recent years at Google trying to enable Googlers to leave the tech island. Since that started we've made it possible for folks to use Git, GCP, Terraform, and a number of technologies y'all outside of Google are already familiar with. Before that I spent time sorting out how to connect our public cloud (GCP) to our internal infrastructure, enabling teams to take a hybrid approach to infrastructure. For a bit my code metrics went down on GitHub as most of that work was inside our internal sourcebase, google3.
 
-I previously focused on Google Cloud ☁️ building Client Libraries for products like [Firestore](https://cloud.google.com/firestore/docs/quickstart-servers#add_data) 🔥, [Bigtable](https://cloud.google.com/bigtable/docs/writing-data#simple) 🏓, and [Google Cloud Storage](https://cloud.google.com/storage/docs/uploading-objects#storage-upload-object-code-sample) 💽.
+I bring a passion for making space for everyone in technology and enabling developers everywhere through better tools and libraries.
 
-For more about me check out [chriswilcox.dev](https://chriswilcox.dev) for tech related content. 
+My team at Google is called AI Foundations because we focus on creating the groundwork to make it possible for folks at Google to develop the best software they can with any and all tools. AI is new, and eliminating friction, making the most of it, is the name of the game.
+
+You may also stumble onto my work because of [Exposure Notifications](https://github.com/google/exposure-notifications-server). GAEN, Google Apple Exposure Notifications, was a project I was proud to be involved with, founding the team that built the Exposure Notifications Server that would allow people around the world to prevent the spread of COVID-19.
+
+You may also remember me from my time building Google Cloud ☁️ building Client Libraries for products like [Firestore](https://cloud.google.com/firestore/docs/quickstart-servers#add_data) 🔥, [Bigtable](https://cloud.google.com/bigtable/docs/writing-data#simple) 🏓, and [Google Cloud Storage](https://cloud.google.com/storage/docs/uploading-objects#storage-upload-object-code-sample) 💽.
+
+Or maybe from my time at Microsoft where I built Visual Studio Extensibility, Python Tools for Visual Studio, Node.js Tools for Visual Studio, and Azure Notebooks. 
 
 Outside of tech [I am an avid hiker 🥾, like to ride bicycles 🚴](https://www.strava.com/athletes/13914849), enjoy a good craft beer 🍺, and [I race motorcycles 🏍️](https://chriswilcox.racing).
 
@@ -25,11 +32,11 @@ You can reach out in a number of ways, but generally [Twitter](https://twitter.c
 
 <p align="center">
 	<a href="https://github.com/crwilcox"><img src="https://img.shields.io/github/followers/crwilcox.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/chriswilcox47"><img src="https://img.shields.io/twitter/follow/chriswilcox47?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/chrisrwilcox"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 
+<!-- Commented out until updated...
 ## `which` 🤖
 
 Open Source Contributions (by commit count)
@@ -205,3 +212,4 @@ Updated 12 October 2021
     <li><a href="https://github.com/pypa/warehouse/commits?author=crwilcox">pypa/warehouse</a></li>
   </ol>
 </details>
+-->
