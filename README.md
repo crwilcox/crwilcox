@@ -12,7 +12,7 @@ I work at Google as a Staff Engineer. I am currently focused on making it possib
 
 I bring a passion for making space for everyone in technology and enabling developers everywhere through better tools and libraries.
 
-My team at Google is called AI Foundations because we focus on creating the groundwork to make it possible for folks at Google to develop the best software they can with any and all tools. AI is new, and eliminating friction, making the most of it, is the name of the game.
+My team at Google is called AI Foundations because we focus on creating the groundwork to make it possible for folks at Google to develop the best software they can with any and all tools. AI might be the newest one, but making the most of it will help us eliminate friction and build the next great things.
 
 You may also stumble onto my work because of [Exposure Notifications](https://github.com/google/exposure-notifications-server). GAEN, Google Apple Exposure Notifications, was a project I was proud to be involved with, founding the team that built the Exposure Notifications Server that would allow people around the world to prevent the spread of COVID-19.
 
@@ -20,7 +20,7 @@ You may also remember me from my time building Google Cloud ☁️ building Clie
 
 Or maybe from my time at Microsoft where I built Visual Studio Extensibility, Python Tools for Visual Studio, Node.js Tools for Visual Studio, and Azure Notebooks. 
 
-Outside of tech [I am an avid hiker 🥾, like to ride bicycles 🚴](https://www.strava.com/athletes/13914849), enjoy a good craft beer 🍺, and [I race motorcycles 🏍️](https://chriswilcox.racing).
+Outside of tech [I am an avid hiker 🥾, like to ride bicycles 🚴](https://www.strava.com/athletes/13914849), enjoy a [good craft beer 🍺](https://cromulent.beer), and [I race motorcycles 🏍️](https://chriswilcox.racing).
 
 ## `where` 🌎
 
@@ -28,7 +28,7 @@ I live in Seattle, WA in a lovely little neighborhood called Ballard. If you enj
 
 ## `ping` ☎️
 
-You can reach out in a number of ways, but generally [Twitter](https://twitter.com/chriswilcox47) is a good choice. I also check [LinkedIn](https://www.linkedin.com/in/chrisrwilcox) intermittently. If it is related to a project on GitHub, go ahead an open an issue ✔️. You can also email me if those don't work. github @ crwilcox.com 🖥️ or [grab time for a meeting 📅](https://calendly.com/crwilcox47/30min).
+You can reach out in a number of ways. I check [LinkedIn](https://www.linkedin.com/in/chrisrwilcox). If it is related to a project on GitHub, go ahead an open an issue ✔️. You can also email me if those don't work. github @ crwilcox.com 🖥️ or [grab time for a meeting 📅](https://calendly.com/crwilcox47/30min).
 
 <p align="center">
 	<a href="https://github.com/crwilcox"><img src="https://img.shields.io/github/followers/crwilcox.svg?label=GitHub&style=social" alt="GitHub"></a>
